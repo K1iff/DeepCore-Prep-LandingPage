@@ -28,9 +28,9 @@ All visual assets are located in the `public/images/` directory. Use the Next.js
      * Mark Angelo E. Dabandan (2023maedabandan@live.mcl.edu.ph). Image: `<Image src="/images/dabandan_profile.png" />`
      * Ryzel Clifford C. Realon (2023rccrealon@live.mcl.edu.ph). Image: `<Image src="/images/realon_profile.png" />`
    * **Research Adviser**:
-     * Micheal James F. Gnilo (mjfgnilo@mcl.edu.ph). Image: `<Image src="/images/gnilo_profile.png" />`
+     * Micheal James F. Gnilo (mjfgnilo@mcl.edu.ph).
    * **Program Chair**:
-     * Jonalyn G. Ebron (jgebron@mcl.edu.ph). Image: `<Image src="/images/ebron_profile.png" />`
+     * Jonalyn G. Ebron (jgebron@mcl.edu.ph).
 6. **Academic Roots**: A section acknowledging development by students from the College of Computer and Information Science at Mapúa Malayan Colleges Laguna. 
    * Include `<Image src="/images/ccis_logo_horizontal.png" />` and `<Image src="/images/mmcl_seal_horizontal.png" />` to represent the academic institutions.
 7. **Footer**: Copyright text, simple navigation links, and a repeat of the contact emails. Include the standalone college shield `<Image src="/images/ccis_logo.png" />` or the university seal `<Image src="/images/mmcl_seal.png" />` as a subtle watermark or footer element.
