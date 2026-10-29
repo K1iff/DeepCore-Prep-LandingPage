@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DeepCore Prep Landing Page
 
-## Getting Started
+Welcome to the repository for the DeepCore Prep Landing Page. This project serves as the main web interface for the DeepCore platform. You can view the live website here: [https://deep-core-prep-landing-page.vercel.app/](https://deep-core-prep-landing-page.vercel.app/).
 
-First, run the development server:
+## About the Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This repository contains the frontend code and assets needed to run the DeepCore Prep web application. It is built using Next.js and includes configurations for TypeScript and ESLint. The application is designed to support different types of users by providing specific views for each group.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Role-Specific Dashboards**: The application includes dedicated dashboard interfaces for administrators, faculty members, and learners.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+* **Authentication**: The project includes a login interface tailored for the DeepCore system.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Institutional Branding**: The platform integrates official logos and seals for CCIS and MMCL.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+* **Documentation**: The repository contains detailed project guidelines including agent instructions, design specifications, and system requirements.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Technology Stack
+
+* Next.js
+
+
+* TypeScript
+
+
+* ESLint for code formatting
